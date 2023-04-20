@@ -1,0 +1,23 @@
+Author 1:
+Name: Vasanth Kumar B
+Email: vasanthkumarb42@gmail.com
+Affiliation: Department of physics, 
+             Indian Institute of Science,
+             Bangalore, Karnataka, 
+             India
+
+Author 2:
+Name: Navneet Roshan
+Email: navneetroshanp@gmail.com
+Affiliation: Department of physics, 
+             Indian Institute of Science,
+             Bangalore, Karnataka, 
+             India
+             
+Author 3:
+Name: Prof. Rahul Pandit
+Email: rahul@iisc.ac.in
+Affiliation: Department of physics, 
+             Indian Institute of Science,
+             Bangalore, Karnataka, 
+             India
